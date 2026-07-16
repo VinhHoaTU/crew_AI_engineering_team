@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/crew_ai.png" alt="logo_crew_ai" />
+</p>
+
 # EngineeringTeam Crew
 
 Welcome to the EngineeringTeam Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
