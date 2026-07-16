@@ -1,5 +1,6 @@
-![logo_crew_ai](asset/crew_ai.png)
-
+<p align="center">
+  <img src="asset/crew_ai.png" alt="crew_ai" />
+</p>
 
 # EngineeringTeam Crew
 
