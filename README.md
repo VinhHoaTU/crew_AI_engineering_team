@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="asset/crew_ai.png" alt="crew_ai" />
+  <img src="asset/crew_ai.png" alt="crew_ai" width="200" />
 </p>
 
 # EngineeringTeam Crew
